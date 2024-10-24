@@ -1,0 +1,8 @@
+# 忽略文件夹
+/keil-project/DebugConfig/
+/keil-project/Listings/
+/keil-project/Objects/
+
+# 忽略文件
+/keil-project/gesture-control.uvguix.chenphxx
+/keil-project/gesture-control.uvoptx
